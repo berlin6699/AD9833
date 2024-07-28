@@ -1,0 +1,4 @@
+../AD9833/ad9833.c:4:6:AD9833_GPIOinit	8	static
+../AD9833/ad9833.c:15:6:AD9833_Write	24	static
+../AD9833/ad9833.c:32:6:AD9833_CtrlSet	32	static
+../AD9833/ad9833.c:50:6:AD9833_FreqSet	48	static
